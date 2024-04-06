@@ -1,0 +1,23 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "FX.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Platformer.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+    ],
+    "project": "Module 2.tiled-project",
+    "recentFiles": [
+        "FX.tsx",
+        "Platformer.tsx"
+    ]
+}

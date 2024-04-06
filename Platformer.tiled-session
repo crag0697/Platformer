@@ -1,0 +1,62 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Cave.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Background.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Cave.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2104.5454545454545,
+                "y": 1616.6666666666665
+            }
+        },
+        "Coins.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Objects.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Player.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Sprites.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/craig/Documents/Programming/2024/Applied Programming/Projects/Platformer/Sprites",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 200,
+    "openFiles": [
+        "Cave.tmx",
+        "Background.tsx",
+        "Objects.tsx",
+        "Player.tsx",
+        "Coins.tsx"
+    ],
+    "project": "Platformer.tiled-project",
+    "property.type": "file",
+    "recentFiles": [
+        "Coins.tsx",
+        "Player.tsx",
+        "Objects.tsx",
+        "Background.tsx",
+        "Cave.tmx",
+        "Sprites.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
